@@ -1,2 +1,6 @@
 dasdasd
+<<<<<<< HEAD
 asdsad
+=======
+asdasand
+>>>>>>> new
